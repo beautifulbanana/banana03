@@ -1,5 +1,7 @@
 package com.mango.demo;
-
+/*
+ * 啊
+ */
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 public class Demo {
